@@ -1,0 +1,4 @@
+#Mon Jan 30 23:45:30 GMT-06:00 2023
+base.0=C\:\\Users\\sfc_b\\Documents\\GitHub\\quiz3\\Quizet\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
